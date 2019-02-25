@@ -1,0 +1,1 @@
+F:\Training\Pluralsight\WCF End-to-End\Development\Modules\m8-metadata-exchange\demos\Starter\GeoLib.ConsoleHost\bin\Debug\GeoLib.ConsoleHost.exe.config

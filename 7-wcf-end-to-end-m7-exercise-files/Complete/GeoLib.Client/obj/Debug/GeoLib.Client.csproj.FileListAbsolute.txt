@@ -1,0 +1,1 @@
+F:\Training\Pluralsight\WCF End-to-End\Development\Modules\m7-bindings-and-behaviors\demos\Complete\GeoLib.Client\bin\Debug\GeoLib.Client.exe.config
